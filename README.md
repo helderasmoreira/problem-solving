@@ -1,6 +1,9 @@
 Solutions to some coding problems that I've come across.
 Sometimes I might not have come up with the most efficient way of doing things, but it is a good opportunity to practice (Ruby mainly).
 
+#### Code Jam 2009
+ * [A. Alien Language][#2009-Q-A] (Qualification)
+
 #### Code Jam 2014
 * [D. Deceitful War][#2014-Q-D] (Qualification)
 * [1A-A. Charging Chaos][#2014-1A-A] (1A - A)
@@ -13,5 +16,6 @@ If we have a sentence like this:
 Write a problem to find the right combination of numbers that makes the sentence valid.
 ```
 
+[#2009-Q-A]: http://code.google.com/codejam/contest/dashboard?c=90101#s=p0
 [#2014-Q-D]:https://code.google.com/codejam/contest/2974486/dashboard#s=p3
 [#2014-1A-A]: https://code.google.com/codejam/contest/2984486/dashboard#s=p0&a=0
