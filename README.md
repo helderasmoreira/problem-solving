@@ -10,7 +10,7 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 #### Code Jam 2014
 * [B. Cookie Clicker Alpha][#2014-Q-B] (Qualification)
 * [D. Deceitful War][#2014-Q-D] (Qualification)
-* [1A-A. Charging Chaos][#2014-1A-A] (1A - A)
+* [A. Charging Chaos][#2014-1A-A] (1A)
 
 #### reddit.com/r/dailyprogrammer
 * [Call Forwarding][#callforwarding]
