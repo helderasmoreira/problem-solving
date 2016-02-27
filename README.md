@@ -12,6 +12,9 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 * [D. Deceitful War][#2014-Q-D] (Qualification)
 * [A. Charging Chaos][#2014-1A-A] (1A)
 
+#### Code Jam 2015
+* [A. Standing Ovation][#2015-Q-A] (Qualification)
+
 #### reddit.com/r/dailyprogrammer
 * [Call Forwarding][#callforwarding]
 
@@ -29,3 +32,4 @@ Write a problem to find the right combination of numbers that makes the sentence
 [#2014-Q-D]:https://code.google.com/codejam/contest/2974486/dashboard#s=p3
 [#2014-1A-A]: https://code.google.com/codejam/contest/2984486/dashboard#s=p0&a=0
 [#callforwarding]:http:www.reddit.com/r/dailyprogrammer/comments/1g09qy/060913_challenge_127_intermediate_call_forwarding/
+[#2015-Q-A]:https://code.google.com/codejam/contest/6224486/dashboard#s=p0
