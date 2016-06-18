@@ -1,5 +1,5 @@
 Solutions to some coding problems that I've come across.
-Sometimes I might not have come up with the most efficient way of doing things, but it is a good opportunity to practice (Ruby mainly).
+Sometimes I might not have come up with the most efficient way of doing things, but it is a good opportunity to practice.
 
 #### Code Jam 2009
  * [A. Alien Language][#2009-Q-A] (Qualification)
