@@ -17,6 +17,7 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 
 #### Code Jam 2016
 * [A. Counting Sheep][#2016-Q-A] (Qualification)
+* [B. Revenge of the Pancakes][#2016-Q-B] (Qualification)
 
 #### reddit.com/r/dailyprogrammer
 * [Call Forwarding][#callforwarding]
@@ -37,3 +38,4 @@ Write a problem to find the right combination of numbers that makes the sentence
 [#callforwarding]:http:www.reddit.com/r/dailyprogrammer/comments/1g09qy/060913_challenge_127_intermediate_call_forwarding/
 [#2015-Q-A]:https://code.google.com/codejam/contest/6224486/dashboard#s=p0
 [#2016-Q-A]:https://code.google.com/codejam/contest/6254486/dashboard#s=a
+[#2016-Q-B]:https://code.google.com/codejam/contest/6254486/dashboard#s=p1
