@@ -37,5 +37,5 @@ Write a problem to find the right combination of numbers that makes the sentence
 [#2014-1A-A]: https://code.google.com/codejam/contest/2984486/dashboard#s=p0&a=0
 [#callforwarding]:http:www.reddit.com/r/dailyprogrammer/comments/1g09qy/060913_challenge_127_intermediate_call_forwarding/
 [#2015-Q-A]:https://code.google.com/codejam/contest/6224486/dashboard#s=p0
-[#2016-Q-A]:https://code.google.com/codejam/contest/6254486/dashboard#s=a
+[#2016-Q-A]:https://code.google.com/codejam/contest/6254486/dashboard#s=p0
 [#2016-Q-B]:https://code.google.com/codejam/contest/6254486/dashboard#s=p1
