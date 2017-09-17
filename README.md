@@ -21,6 +21,7 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 
 #### reddit.com/r/dailyprogrammer
 * [Call Forwarding][#callforwarding]
+* [Pyramid Sliding][#pyramidsliding]
 
 ### other stuff
 
@@ -39,3 +40,4 @@ Write a problem to find the right combination of numbers that makes the sentence
 [#2015-Q-A]:https://code.google.com/codejam/contest/6224486/dashboard#s=p0
 [#2016-Q-A]:https://code.google.com/codejam/contest/6254486/dashboard#s=p0
 [#2016-Q-B]:https://code.google.com/codejam/contest/6254486/dashboard#s=p1
+[#pyramidsliding]:https://www.reddit.com/r/dailyprogrammer/comments/6vi9ro/170823_challenge_328_intermediate_pyramid_sliding/
