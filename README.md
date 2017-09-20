@@ -21,6 +21,7 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 
 #### Code Jam 2017
 * [A. Oversized Pancake Flipper][#2017-Q-A] (Qualification)
+* [B. Tidy Numbers][#2017-Q-B] (Qualification)
 
 #### reddit.com/r/dailyprogrammer
 * [Call Forwarding][#callforwarding]
@@ -45,3 +46,4 @@ Write a problem to find the right combination of numbers that makes the sentence
 [#2016-Q-B]:https://code.google.com/codejam/contest/6254486/dashboard#s=p1
 [#pyramidsliding]:https://www.reddit.com/r/dailyprogrammer/comments/6vi9ro/170823_challenge_328_intermediate_pyramid_sliding/
 [#2017-Q-A]:https://code.google.com/codejam/contest/3264486/dashboard#s=p0
+[#2017-Q-B]:https://code.google.com/codejam/contest/3264486/dashboard#s=p1
