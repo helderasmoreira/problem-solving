@@ -27,6 +27,7 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 * [Call Forwarding][#callforwarding]
 * [Pyramid Sliding][#pyramidsliding]
 * [Balance My Spending][#balancemyspending]
+* [Packing Stack of Boxes][#packingstackofboxes]
 
 ### other stuff
 
@@ -49,3 +50,4 @@ Write a problem to find the right combination of numbers that makes the sentence
 [#2017-Q-A]:https://code.google.com/codejam/contest/3264486/dashboard#s=p0
 [#2017-Q-B]:https://code.google.com/codejam/contest/3264486/dashboard#s=p1
 [#balancemyspending]:https://www.reddit.com/r/dailyprogrammer/comments/7vx85p/20180207_challenge_350_intermediate_balancing_my/
+[#packingstackofboxes]:https://www.reddit.com/r/dailyprogrammer/comments/7ubc70/20180130_challenge_349_intermediate_packing/
