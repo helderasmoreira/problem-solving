@@ -28,6 +28,7 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 * [Pyramid Sliding][#pyramidsliding]
 * [Balance My Spending][#balancemyspending]
 * [Packing Stack of Boxes][#packingstackofboxes]
+* [Hello World Genetic Algorithm][#helloworldgenetic]
 
 ### other stuff
 
@@ -60,4 +61,5 @@ The N queens puzzle is the problem of placing N chess queens on an N×N chessboa
 [#balancemyspending]:https://www.reddit.com/r/dailyprogrammer/comments/7vx85p/20180207_challenge_350_intermediate_balancing_my/
 [#packingstackofboxes]:https://www.reddit.com/r/dailyprogrammer/comments/7ubc70/20180130_challenge_349_intermediate_packing/
 [#nqueens]:https://en.wikipedia.org/wiki/Eight_queens_puzzle
+[#helloworldgenetic]:https://www.reddit.com/r/dailyprogrammer/comments/40rs67/20160113_challenge_249_intermediate_hello_world/
 
