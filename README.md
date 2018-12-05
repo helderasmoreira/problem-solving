@@ -30,6 +30,8 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 * [Packing Stack of Boxes][#packingstackofboxes]
 * [Hello World Genetic Algorithm][#helloworldgenetic]
 
+#### [Advent Of Code 2018][#adventofcode2018]
+
 ### other stuff
 
 #### sentence
@@ -62,4 +64,4 @@ The N queens puzzle is the problem of placing N chess queens on an N×N chessboa
 [#packingstackofboxes]:https://www.reddit.com/r/dailyprogrammer/comments/7ubc70/20180130_challenge_349_intermediate_packing/
 [#nqueens]:https://en.wikipedia.org/wiki/Eight_queens_puzzle
 [#helloworldgenetic]:https://www.reddit.com/r/dailyprogrammer/comments/40rs67/20160113_challenge_249_intermediate_hello_world/
-
+[#adventofcode2018]:https://adventofcode.com/2018/
