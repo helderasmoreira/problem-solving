@@ -30,6 +30,9 @@ def react_best(x)
   end.sort_by { |x| x.last }
 end
 
+# a more time and memory efficient solution would be to count the number of characters of type xX
+# and try to deduce from there the best option?
+
 p react(input[0].strip).size
 p react_best(input[0].strip)
 
