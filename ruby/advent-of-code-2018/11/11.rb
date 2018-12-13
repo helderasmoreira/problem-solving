@@ -1,3 +1,5 @@
+# TIL https://en.wikipedia.org/wiki/Summed-area_table
+
 require 'benchmark'
 
 MaxScore = Struct.new(:x, :y, :value, :grid_size)
