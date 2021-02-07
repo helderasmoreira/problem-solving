@@ -30,7 +30,8 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 * [Packing Stack of Boxes][#packingstackofboxes]
 * [Hello World Genetic Algorithm][#helloworldgenetic]
 
-#### [Advent Of Code 2018][#adventofcode2018]
+#### Advent Of Code
+* [2018][[#adventofcode2018]
 
 ### other stuff
 
