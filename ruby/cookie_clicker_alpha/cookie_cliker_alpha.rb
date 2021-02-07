@@ -6,7 +6,7 @@ class CookieClickerAlpha
       File.open(dataset.sub(/\.in/, '.out'), 'w') do |output|
         test_cases = input.readline.to_i
         1.upto(test_cases) do |test_case|
-          line = input.readline.split.map { |n| n.to_f }
+          line = input.readline.split.map(&:to_f)
           result = analyze(line[0], line[1], line[2])
           output << %Q{Case ##{test_case}: #{result}\n}
         end

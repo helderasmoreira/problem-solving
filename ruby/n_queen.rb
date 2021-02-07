@@ -37,7 +37,7 @@ def is_valid?(board, i ,z)
   right_down(board, i, z) &&
   left_down(board, i, z) &&
   right_up(board, i, z) &&
-  !board[i].any? { |x| x == 'o' } &&
+  board[i].none? { |x| x == 'o' } &&
   !board.map { |x| x[z] }.any? { |x| x == 'o' }
 end
 
@@ -73,5 +73,3 @@ if solution
 else
   p ':('
 end
-
-

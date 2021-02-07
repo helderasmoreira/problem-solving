@@ -14,12 +14,12 @@ class TidyNumbers
 
   def tidy?(n)
     yes = true
-    n.to_s.split("").map(&:to_i).reduce {|acum, elem| break unless yes &= (elem >= acum); elem }
+    n.to_s.split('').map(&:to_i).inject { |acum, elem| break unless yes &= (elem >= acum); elem }
     yes
   end
 
   def brute_force(n)
-    n.downto(0).find {|n| tidy?(n) }
+    n.downto(0).find { |n| tidy?(n) }
   end
 
   # looking at number from right to left
@@ -29,7 +29,7 @@ class TidyNumbers
   #   make it a 9 and reduce the next one
   # otherwise reduce it by 1
   def smart(n)
-    n = n.to_s.split("").map(&:to_i).reverse
+    n = n.to_s.split('').map(&:to_i).reverse
 
     trail = false
     (0..n.size-2).each do |i|
@@ -52,7 +52,7 @@ class TidyNumbers
       end
     end
 
-    n.reverse.join("").to_i
+    n.reverse.join('').to_i
   end
 end
 

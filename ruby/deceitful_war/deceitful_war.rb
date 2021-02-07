@@ -7,8 +7,8 @@ class DeceitfulWar
         test_cases = input.readline.to_i
         1.upto(test_cases) do |test_case|
           input.readline.to_i # consume the nr_blocks
-          naomi = input.readline.split.map { |n| n.to_f }
-          ken = input.readline.split.map { |n| n.to_f }
+          naomi = input.readline.split.map(&:to_f)
+          ken = input.readline.split.map(&:to_f)
           naomi.sort!
           ken.sort!
           output << %Q{Case ##{test_case}: #{deceitful_war(naomi.dup, ken.dup)} #{war(naomi.dup, ken.dup)}\n}

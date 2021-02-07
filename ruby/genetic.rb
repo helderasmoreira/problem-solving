@@ -9,14 +9,14 @@ class Genetic
     random_string = Array.new(TARGET.size) { random_char }.join('')
 
     i = 0
-    while true do
+    while true
       i += 1
 
       random_string, hamming_result = evolve(random_string)
       puts "Gen: #{i} | Fitness: #{hamming_result} | #{random_string} "
 
       break if hamming_result.zero?
-      end
+    end
   end
 
   def random_char

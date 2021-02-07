@@ -5,8 +5,8 @@ class BalanceMySpending
     File.open(dataset, 'r') do |input|
       File.open(dataset.sub(/\.in/, '.out'), 'w') do |output|
         while !input.eof? do
-          input.readline #trash one line
-          output << "#{way_more_smart(input.readline.split(' ').map{ |x| x.to_i }).join(',')}\n"
+          input.readline # trash one line
+          output << "#{way_more_smart(input.readline.split(' ').map(&:to_i)).join(',')}\n"
         end
       end
     end
@@ -31,7 +31,7 @@ class BalanceMySpending
     after = values.reduce(:+)
 
     values.each_index do |i|
-      before += values[i - 1] if i > 0
+      before += values[i - 1] if i.positive?
       after -= values[i]
       positions << i if before == after
     end

@@ -47,7 +47,7 @@ class T9Spelling
 
   def translate_to_t9(phrase)
     t9_output = ''
-    phrase.each_with_index do |character, index|
+    phrase.each do |character|
       # check if needs pause
       t9_output += ' ' if t9_output[-1, 1] == T9_TABLE[character.to_sym][0]
 

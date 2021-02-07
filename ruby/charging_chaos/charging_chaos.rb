@@ -23,7 +23,7 @@ class ChargingChaos
     devices.each do |device|
       outlets.delete(outlets.find { |outlet| outlet == device })
     end
-    outlets.size == 0
+    outlets.empty?
   end
 
   def brute_force(devices, outlets)

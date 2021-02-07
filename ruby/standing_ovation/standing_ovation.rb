@@ -21,11 +21,11 @@ class StandingOvation
   def analyze(data)
     total_people_needed = 0
     data.each_index do |shyness|
-      #no one to get up
-      next if data[shyness] == 0
+      # no one to get up
+      next if data[shyness].zero?
 
       people_needed = (shyness - sum_until(data, shyness))
-      if people_needed > 0
+      if people_needed.positive?
         total_people_needed += people_needed
         data[shyness] += people_needed
       end

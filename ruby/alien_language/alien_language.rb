@@ -4,9 +4,9 @@ class AlienLanguage
   def solve(dataset)
     File.open(dataset, 'r') do |input|
       File.open(dataset.sub(/\.in/, '.out'), 'w') do |output|
-        first_line = input.readline.split(' ').map { |x| x.to_i }
+        first_line = input.readline.split(' ').map(&:to_i)
         alien_words = []
-        1.upto(first_line[1]) do |alien_word|
+        1.upto(first_line[1]) do |_|
           alien_words = alien_words + [input.readline]
         end
 

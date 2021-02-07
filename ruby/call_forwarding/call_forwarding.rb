@@ -11,8 +11,8 @@ class CallForwarding
       File.open(dataset.sub(/\.in/, '.out'), 'w') do |output|
         test_cases = input.readline.to_i
         inputs = []
-        1.upto(test_cases) do |test_case|
-          line = input.readline.split(' ').map{ |x| x.to_i }
+        1.upto(test_cases) do |_|
+          line = input.readline.split(' ').map(&:to_i)
           inputs += [line]
         end
         day_to_test = input.readline.to_i
@@ -23,7 +23,7 @@ class CallForwarding
 
   def analyze(inputs, day_to_test, output)
     nr_forwardings = 0
-    inputs.each { |x| if (day_to_test <= x[2] + x[3]) then nr_forwardings += 1 end }
+    inputs.each { |x| if day_to_test <= (x[2] + x[3]) then nr_forwardings += 1 end }
     output << "on day #{day_to_test} there are #{nr_forwardings} forwardings\n"
 
     best = 0
