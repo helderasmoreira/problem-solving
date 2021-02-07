@@ -29,6 +29,7 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 * [Balance My Spending][#balancemyspending]
 * [Packing Stack of Boxes][#packingstackofboxes]
 * [Hello World Genetic Algorithm][#helloworldgenetic]
+* [Progressive Taxation][#progressivetaxation]
 
 #### Advent Of Code
 * [2018][[#adventofcode2018]
@@ -66,3 +67,4 @@ The N queens puzzle is the problem of placing N chess queens on an N×N chessboa
 [#nqueens]:https://en.wikipedia.org/wiki/Eight_queens_puzzle
 [#helloworldgenetic]:https://www.reddit.com/r/dailyprogrammer/comments/40rs67/20160113_challenge_249_intermediate_hello_world/
 [#adventofcode2018]:https://adventofcode.com/2018/
+[#progressivetaxation]:https://www.reddit.com/r/dailyprogrammer/comments/cdieag/20190715_challenge_379_easy_progressive_taxation/
