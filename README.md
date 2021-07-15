@@ -25,6 +25,7 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 
 #### Code Jam 2020
 * [A. Vestigium][#2020-Q-A] (Qualification)
+
 #### reddit.com/r/dailyprogrammer
 * [Call Forwarding][#callforwarding]
 * [Pyramid Sliding][#pyramidsliding]
@@ -34,7 +35,7 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 * [Progressive Taxation][#progressivetaxation]
 
 #### Advent Of Code
-* [2018][[#adventofcode2018]
+* [2018][#adventofcode2018]
 
 ### other stuff
 
