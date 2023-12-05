@@ -15,10 +15,6 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 #### Code Jam 2015
 * [A. Standing Ovation][#2015-Q-A] (Qualification)
 
-#### Code Jam 2016
-* [A. Counting Sheep][#2016-Q-A] (Qualification)
-* [B. Revenge of the Pancakes][#2016-Q-B] (Qualification)
-
 #### Code Jam 2017
 * [A. Oversized Pancake Flipper][#2017-Q-A] (Qualification)
 * [B. Tidy Numbers][#2017-Q-B] (Qualification)
@@ -61,9 +57,6 @@ The N queens puzzle is the problem of placing N chess queens on an N×N chessboa
 [#2014-1A-A]: https://code.google.com/codejam/contest/2984486/dashboard#s=p0&a=0
 [#callforwarding]:http:www.reddit.com/r/dailyprogrammer/comments/1g09qy/060913_challenge_127_intermediate_call_forwarding/
 [#2015-Q-A]:https://code.google.com/codejam/contest/6224486/dashboard#s=p0
-[#2016-Q-A]:https://code.google.com/codejam/contest/6254486/dashboard#s=p0
-[#2016-Q-B]:https://code.google.com/codejam/contest/6254486/dashboard#s=p1
-[#pyramidsliding]:https://www.reddit.com/r/dailyprogrammer/comments/6vi9ro/170823_challenge_328_intermediate_pyramid_sliding/
 [#2017-Q-A]:https://code.google.com/codejam/contest/3264486/dashboard#s=p0
 [#2017-Q-B]:https://code.google.com/codejam/contest/3264486/dashboard#s=p1
 [#balancemyspending]:https://www.reddit.com/r/dailyprogrammer/comments/7vx85p/20180207_challenge_350_intermediate_balancing_my/
