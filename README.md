@@ -1,5 +1,12 @@
 Solutions to some coding problems that I've come across.
-Sometimes I might not have come up with the most efficient way of doing things, but it is a good opportunity to practice.
+Quite certain that most times I have not come up with the most efficient/pretty way of doing things, but I am okay with that and... who will see this anyway?! 👀
+
+---
+
+
+#### Advent Of Code
+* [2018][#adventofcode2018]
+* [2022][#adventofcode2022] (50 ⭐️ - **complete**!)
 
 #### Code Jam 2009
  * [A. Alien Language][#2009-Q-A] (Qualification)
@@ -24,15 +31,10 @@ Sometimes I might not have come up with the most efficient way of doing things, 
 
 #### reddit.com/r/dailyprogrammer
 * [Call Forwarding][#callforwarding]
-* [Pyramid Sliding][#pyramidsliding]
 * [Balance My Spending][#balancemyspending]
 * [Packing Stack of Boxes][#packingstackofboxes]
 * [Hello World Genetic Algorithm][#helloworldgenetic]
 * [Progressive Taxation][#progressivetaxation]
-
-#### Advent Of Code
-* [2018][#adventofcode2018]
-* [2022][#adventofcode2022]
 
 ### other stuff
 
