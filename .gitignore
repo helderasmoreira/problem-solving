@@ -4,3 +4,4 @@ target
 *.log
 /.vagrant
 Vagrantfile
+*.input
