@@ -1,4 +1,5 @@
-Solutions to some coding problems that I've come across.
+Solutions (mostly in [Ruby](https://www.ruby-lang.org/en/) 💎) to some coding problems that I've come across over the years.
+
 Quite certain that most times I have not come up with the most efficient/pretty way of doing things, but I am okay with that and... who will see this anyway?! 👀
 
 ---
