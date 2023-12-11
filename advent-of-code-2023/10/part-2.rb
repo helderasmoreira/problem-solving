@@ -46,13 +46,10 @@ while current = to_visit.shift
   end
 end
 
+# using the Shoelace formula for calculating the area
 fh, sh = visited.to_a[1..].partition.with_index { |_, i| i.even? }
 cc_path = ([visited.first] + fh + sh.reverse + [visited.first]).compact
+area = shoelace_area(cc_path).abs
 
-area = shoelace_area(cc_path)
-# surely there's a more elegant way of guaranteeing a counter clockwise path ALWAYS
-# but I felt like reusing as-was what I had done for part 1
-# and this feels good enough...
-area = shoelace_area(cc_path.reverse) if area.negative?
-
+# and then figuring out how many points are in it using Pick's theorem
 puts area - ((cc_path.size - 1) / 2) + 1
