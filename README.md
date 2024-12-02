@@ -8,8 +8,8 @@ Quite certain that most times I have not come up with the most efficient/pretty 
 #### Advent Of Code
 * [2018][#adventofcode2018]
 * [2021][#adventofcode2021]
-* [2022][#adventofcode2022] (50 ⭐️ - **complete**!)
-* [2023][#adventofcode2023] (50 ⭐️ - **complete**!)
+* [2022][#adventofcode2022] (50 ⭐️✅)
+* [2023][#adventofcode2023] (50 ⭐️✅)
 * [2022][#adventofcode2024]
 
 #### Code Jam 2009
