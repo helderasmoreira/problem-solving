@@ -7,7 +7,10 @@ Quite certain that most times I have not come up with the most efficient/pretty 
 
 #### Advent Of Code
 * [2018][#adventofcode2018]
+* [2021][#adventofcode2021]
 * [2022][#adventofcode2022] (50 ⭐️ - **complete**!)
+* [2023][#adventofcode2023] (50 ⭐️ - **complete**!)
+* [2022][#adventofcode2024]
 
 #### Code Jam 2009
  * [A. Alien Language][#2009-Q-A] (Qualification)
@@ -67,6 +70,9 @@ The N queens puzzle is the problem of placing N chess queens on an N×N chessboa
 [#nqueens]:https://en.wikipedia.org/wiki/Eight_queens_puzzle
 [#helloworldgenetic]:https://www.reddit.com/r/dailyprogrammer/comments/40rs67/20160113_challenge_249_intermediate_hello_world/
 [#adventofcode2018]:https://adventofcode.com/2018/
+[#adventofcode2021]:https://adventofcode.com/2021/
 [#adventofcode2022]:https://adventofcode.com/2022/
+[#adventofcode2023]:https://adventofcode.com/2023/
+[#adventofcode2024]:https://adventofcode.com/2024/
 [#progressivetaxation]:https://www.reddit.com/r/dailyprogrammer/comments/cdieag/20190715_challenge_379_easy_progressive_taxation/
 [#2020-Q-A]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c
